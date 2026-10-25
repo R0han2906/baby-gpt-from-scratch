@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Params](https://img.shields.io/badge/Params-5.7M-FF6B35?style=for-the-badge&logo=brain&logoColor=white)
 ![Loss](https://img.shields.io/badge/Val_Loss-1.167-00C853?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
 
 > *Built from scratch. No Karpathy. No HuggingFace. No copy-paste.*
 *Every line of math, every tensor operation — handwritten.*
